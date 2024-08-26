@@ -2,3 +2,4 @@
 
 - Estado del proyecto: En construcción
 - 
+sistema de registro 2
